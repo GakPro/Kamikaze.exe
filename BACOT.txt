@@ -1,1 +1,5 @@
-printf("BACOT")
+#include<stdio.h>
+
+int main(){
+	printf("BACOT");
+	return 0;
